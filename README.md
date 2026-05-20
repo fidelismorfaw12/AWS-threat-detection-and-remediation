@@ -138,14 +138,4 @@ After apply, **confirm the SNS email subscription** from the inbox of each addre
 | 7.0 – 8.9 | High | IP blocked + instance isolated |
 | 9.0 – 10.0 | Critical | IP blocked + instance isolated |
 
----
 
-## Related Posts
-
-- [AWS Threat Detection & Automated Remediation — Part 1](https://medium.com/aws-in-plain-english/aws-threat-detection-and-automated-remediation-8df09d9dc924)
-
----
-
-## License
-
-MIT
