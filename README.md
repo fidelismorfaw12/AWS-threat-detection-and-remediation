@@ -139,3 +139,4 @@ After apply, **confirm the SNS email subscription** from the inbox of each addre
 | 9.0 – 10.0 | Critical | IP blocked + instance isolated |
 
 
+__
